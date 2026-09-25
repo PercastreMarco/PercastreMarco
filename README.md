@@ -4,7 +4,7 @@
  <img alt="Clustering can be used to recommend products to customers based on the preferences of customers within the same cluster by Matt Dancho." src="https://pbs.twimg.com/media/F48Z87hW4AE4m2X?format=jpg&name=medium">
 </picture>
 
-<h1 align="center">Marco Percastre</h1>
+<h1 align="center"> 📊🚀 GitHub Stats: Marco Percastre</h1>
 
 <p align="center">
   <a href="https://x.com/TU-USUARIO"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
@@ -33,14 +33,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter)
 ![Git](https://img.shields.io/badge/Git-red?logo=git)
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PercastreMarco&show_icons=true&theme=default">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PercastreMarco&layout=compact">
-</p>
-
 <!---
 PercastreMarco/PercastreMarco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
